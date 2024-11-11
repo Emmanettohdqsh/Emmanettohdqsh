@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+i am a graduate of osun state university, with a degree in Electrical and Electronics Engineering
 <!--
 **Emmanettohdqsh/Emmanettohdqsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
